@@ -24,7 +24,7 @@ npm run lint
 
 
 ### Wireframing 
-[Miro Board](https://miro.com/welcomeonboard/T2FpUUtRM1gzSmZOdkJNUjE3aG5HNjI3M1YzTkN6bnFYWVcwVkN5WWdXU0dmZXFLZ1ZCRG5FSEw0elVkM0xoSHwzNDU4NzY0NTI5NzAzNzU1NDE4fDI=?share_link_id=72643616887)
+[Miro Board]([https://miro.com/welcomeonboard/T2FpUUtRM1gzSmZOdkJNUjE3aG5HNjI3M1YzTkN6bnFYWVcwVkN5WWdXU0dmZXFLZ1ZCRG5FSEw0elVkM0xoSHwzNDU4NzY0NTI5NzAzNzU1NDE4fDI=?share_link_id=72643616887](https://miro.com/app/board/uXjVKfsGPgo=/?share_link_id=899890525743))
 
 ### Documentation
 [NextJS](https://nextjs.org/docs) | [ReactJS](https://react.dev/reference/react) | [Jest](https://jestjs.io/docs/getting-started) | 
