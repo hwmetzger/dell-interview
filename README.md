@@ -3,7 +3,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Purpose
-This repo is a basis for a technical interview for Henry "Hank" Wells Metzger.
+A starter project for the Principal Software Engineer - AI Innovations role technical interview.
 
 ### Getting Started
 
