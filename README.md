@@ -1,36 +1,31 @@
+# Henry "Hank" Wells Metzger Dell Interview Repo
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+## Purpose
+This repo is a basis for a technical interview for Henry "Hank" Wells Metzger.
 
-First, run the development server:
+### Getting Started
 
 ```bash
+npm i
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Testing
+```bash
+npm run test
+```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Linting
+```bash
+npm run lint
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+### Wireframing 
+[Miro Board](https://miro.com/welcomeonboard/T2FpUUtRM1gzSmZOdkJNUjE3aG5HNjI3M1YzTkN6bnFYWVcwVkN5WWdXU0dmZXFLZ1ZCRG5FSEw0elVkM0xoSHwzNDU4NzY0NTI5NzAzNzU1NDE4fDI=?share_link_id=72643616887)
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### Documentation
+[NextJS](https://nextjs.org/docs) | [ReactJS](https://react.dev/reference/react) | [Jest](https://jestjs.io/docs/getting-started) | 
+[Tailwind CSS](https://tailwindcss.com/docs/installation) | [Tailwind UI](https://tailwindui.com/documentation)
